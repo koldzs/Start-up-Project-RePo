@@ -24,7 +24,7 @@ st.markdown("<br>", unsafe_allow_html= True)
 data = pd.read_csv('startUp.csv')
 st.dataframe(data)
 
-st.sidebar.image('pngwing.com (3).png', caption = 'Welcome User')
+st.sidebar.image('pngwing.com (1).png', caption = 'Welcome User')
 
 st.sidebar.markdown("<br>", unsafe_allow_html= True)
 st.sidebar.markdown("<br>", unsafe_allow_html= True)
